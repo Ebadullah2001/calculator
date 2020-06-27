@@ -1,0 +1,31 @@
+.main{
+    margin: 0 auto;
+    width: 200px;
+    
+}
+.ii{
+    width: 96%;
+    cursor: pointer;
+  
+}
+.k{
+    border: 2px black;
+    color:black;
+}
+.cbtn{
+    width: 100%;
+    background :aqua;
+    
+    border: none;
+    cursor: pointer;
+    color:black;
+}
+.btn{
+    color:black;
+    border: none;
+    background-color:aqua;
+    
+    width: 45px;
+    margin: 1px;   
+    cursor: pointer; 
+}
